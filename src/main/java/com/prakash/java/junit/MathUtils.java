@@ -1,5 +1,6 @@
 package com.prakash.java.junit;
 
+
 public class MathUtils {
 
     public int add(int a, int b) {
